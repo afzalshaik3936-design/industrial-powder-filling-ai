@@ -9,7 +9,7 @@ An AI-powered manufacturing analytics application that predicts tablet weight us
 ## 🚀 Live Demo
 
 🔗 **Live Application:**  
-https://YOUR-STREAMLIT-APP.streamlit.app
+https://industrial-powder-filling-ai-7.streamlit.app
 
 🌐 **Portfolio:**  
 https://afzal-portfolio-site.vercel.app
